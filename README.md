@@ -10,7 +10,7 @@
 
 ##  About me
 
-* I am an Information Systems student with a strong interest in technology, innovation, and digital solutions. I am currently seeking opportunities that allow me to apply my academic knowledge in practice and continue learning from experienced professionals in the field.
+I am an Information Systems student with a strong interest in technology, innovation, and digital solutions. I am currently seeking opportunities that allow me to apply my academic knowledge in practice and continue learning from experienced professionals in the field.
 
 ---
 
