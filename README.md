@@ -29,9 +29,8 @@ Aqui estão as tecnologias que utilizei neste projeto:
 
 ## 🔗 Links Importantes
 
-* [LinkedIn Profile](https://www.linkedin.com/in/seu-usuario)
+* [LinkedIn Profile](https://www.linkedin.com/in/lucassilva-z)
 * [Portfolio Website](https://seu-portfolio.com)
-* [Documentação da API](https://link-da-doc.com)
 
 ---
 
