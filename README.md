@@ -31,7 +31,8 @@ Aqui estão as tecnologias que utilizei neste projeto:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" (https://www.linkedin.com/in/lucassilva-z)/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    * (https://www.linkedin.com/in/lucassilva-z)
   </a>
 </p>
 * [LinkedIn Profile](https://www.linkedin.com/in/lucassilva-z)
