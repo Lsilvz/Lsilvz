@@ -21,7 +21,7 @@ Aqui estão as tecnologias que utilizei neste projeto:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,ts,mysql,docker,aws,git,vscode,postman,mongodb,dotnet" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,ts,mysql,git,vscode" />
   </a>
 </p>
 
