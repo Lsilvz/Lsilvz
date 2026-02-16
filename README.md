@@ -29,6 +29,11 @@ Aqui estão as tecnologias que utilizei neste projeto:
 
 ## 🔗 Links Importantes
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" (https://www.linkedin.com/in/lucassilva-z)/>
+  </a>
+</p>
 * [LinkedIn Profile](https://www.linkedin.com/in/lucassilva-z)
 * [Portfolio Website](https://seu-portfolio.com)
 
