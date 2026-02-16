@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá Eu sou Lucas Oliveira 👋
+# Olá sou Lucas Oliveira 👋
 
 ### Desenvolvedor Web | JavaScript | Node.js | React | SQL |
 
@@ -29,7 +29,7 @@ Aqui estão as tecnologias que utilizei neste projeto:
 
 ## 🔗 Links Importantes
 
-<a href="https://https://www.linkedin.com/in/lucassilva-z" target="_blank">
+<a href="https://www.linkedin.com/in/lucassilva-z" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
