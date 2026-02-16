@@ -29,10 +29,14 @@ Aqui estão as tecnologias que utilizei neste projeto:
 
 ## 🔗 Links Importantes
 
+<a href="https://(https://www.linkedin.com/in/lucassilva-z)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-    * (https://www.linkedin.com/in/lucassilva-z)
+    * 
   </a>
 </p>
 * [LinkedIn Profile](https://www.linkedin.com/in/lucassilva-z)
