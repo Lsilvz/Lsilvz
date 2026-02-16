@@ -1,20 +1,20 @@
 <div align="center">
 
-# Olá sou Lucas Oliveira 👋
+# Hello, I'm Lucas Oliveira 👋
 
-### Desenvolvedor Web | JavaScript | Node.js | React | SQL |
+### Developer Web | JavaScript | Node.js | React | SQL |
 
 ---
 
 </div>
 
-##  Sobre min
+##  About me
 
-* Sou estudante de Sistemas de Informação e tenho grande interesse pela área de tecnologia, inovação e soluções digitais. Estou atualmente em busca de oportunidades que me permitam aplicar meus conhecimentos acadêmicos na prática e continuar aprendendo com profissionais experientes do setor.
+* I am an Information Systems student with a strong interest in technology, innovation, and digital solutions. I am currently seeking opportunities that allow me to apply my academic knowledge in practice and continue learning from experienced professionals in the field.
 
 ---
 
-##  Tecnologias & Ferramentas
+##  Technologies & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 
 ---
 
-##  Links Importantes
+##  Important Links
 
 <a href="https://www.linkedin.com/in/lucassilva-z">
   <img src="https://skillicons.dev/icons?i=linkedin" />
