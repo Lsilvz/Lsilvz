@@ -21,7 +21,7 @@ Aqui estão as tecnologias que utilizei neste projeto:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,ts,mysql,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,ts,html,css,mysql,git,github,figma,vscode" />
   </a>
 </p>
 
@@ -29,12 +29,11 @@ Aqui estão as tecnologias que utilizei neste projeto:
 
 ## 🔗 Links Importantes
 
-<a href="https://www.linkedin.com/in/lucassilva-z" target="_blank">
+<a href="https://www.linkedin.com/in/lucassilva-z">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://www.instagram.com/ls.silvz/" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
----
 
 
