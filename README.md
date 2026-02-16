@@ -8,7 +8,7 @@
 
 </div>
 
-## 💡 Sobre o Projeto
+## 💡 Sobre min
 
 * Este é um template de README focado em uma estrutura profissional e visualmente atraente.
 * O objetivo é facilitar a leitura e destacar as principais informações do seu repositório.
@@ -16,8 +16,6 @@
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-
-Aqui estão as tecnologias que utilizei neste projeto:
 
 <p align="left">
   <a href="https://skillicons.dev">
