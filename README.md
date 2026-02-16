@@ -32,16 +32,9 @@ Aqui estão as tecnologias que utilizei neste projeto:
 <a href="https://www.linkedin.com/in/lucassilva-z" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-    * 
-  </a>
-</p>
-* [LinkedIn Profile](https://www.linkedin.com/in/lucassilva-z)
-* [Portfolio Website](https://seu-portfolio.com)
-
+<a href="https://www.instagram.com/ls.silvz/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 ---
 
 
