@@ -8,14 +8,13 @@
 
 </div>
 
-## 💡 Sobre min
+##  Sobre min
 
-* Este é um template de README focado em uma estrutura profissional e visualmente atraente.
-* O objetivo é facilitar a leitura e destacar as principais informações do seu repositório.
+* Sou estudante de Sistemas de Informação e tenho grande interesse pela área de tecnologia, inovação e soluções digitais. Estou atualmente em busca de oportunidades que me permitam aplicar meus conhecimentos acadêmicos na prática e continuar aprendendo com profissionais experientes do setor.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -25,7 +24,7 @@
 
 ---
 
-## 🔗 Links Importantes
+##  Links Importantes
 
 <a href="https://www.linkedin.com/in/lucassilva-z">
   <img src="https://skillicons.dev/icons?i=linkedin" />
