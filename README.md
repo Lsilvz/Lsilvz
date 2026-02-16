@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Lsilvz/Lsilvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá Eu sou Lucas Oliveira 👋
 
-Here are some ideas to get you started:
+### Desenvolvedor Web | JavaScript | Node.js | React | SQL |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+</div>
+
+## 💡 Sobre o Projeto
+
+* Este é um template de README focado em uma estrutura profissional e visualmente atraente.
+* O objetivo é facilitar a leitura e destacar as principais informações do seu repositório.
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+Aqui estão as tecnologias que utilizei neste projeto:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,ts,mysql,docker,aws,git,vscode,postman,mongodb,dotnet" />
+  </a>
+</p>
+
+---
+
+## 🔗 Links Importantes
+
+* [LinkedIn Profile](https://www.linkedin.com/in/seu-usuario)
+* [Portfolio Website](https://seu-portfolio.com)
+* [Documentação da API](https://link-da-doc.com)
+
+---
+
+
